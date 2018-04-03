@@ -1,0 +1,26 @@
+INSERT INTO `mmm`.`starter` (
+`id` ,
+`full_names` ,
+`phone` ,
+`email` ,
+`bank_name` ,
+`account_number`
+)
+VALUES (
+NULL , 'aaa_fullname', 'aaa_phone', 'aaa_email', 'aaa_bankname', 'aaa_acc_number'
+), 
+(
+NULL , 'bbb_fullname', 'bbb_phone', 'bbb_email', 'bbb_bankname', 'bbb_acc_number'
+),
+(
+NULL , 'ccc_fullname', 'ccc_phone', 'ccc_email', 'ccc_bankname', 'ccc_acc_number'
+),
+(
+NULL , 'ddd_fullname', 'ddd_phone', 'ddd_email', 'ddd_bankname', 'ddd_acc_number'
+),
+(
+NULL , 'eee_fullname', 'eee_phone', 'eee_email', 'eee_bankname', 'eee_acc_number'
+),
+(
+NULL , 'fff_fullname', 'fff_phone', 'fff_email', 'fff_bankname', 'fff_acc_number'
+);

@@ -1,0 +1,8 @@
+ CREATE TABLE `mmm`.`starter` (
+`id` INT( 100 ) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`full_names` VARCHAR( 100 ) NOT NULL ,
+`phone` VARCHAR( 100 ) NOT NULL ,
+`email` VARCHAR( 100 ) NOT NULL ,
+`bank_name` VARCHAR( 100 ) NOT NULL ,
+`account_number` VARCHAR( 100 ) NOT NULL
+) ENGINE = MYISAM 

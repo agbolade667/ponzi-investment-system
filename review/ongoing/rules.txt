@@ -1,0 +1,21 @@
+
+
+registration.html
+reset.html
+terms-conditions.html
+login.html
+index.html
+home.html
+faq.html
+
+
+Headings: About -> Packages -> FAQ -> Login -> Contact -> Join
+
+When x is regiteredd, matched = "none"
+Everytime the website is opened, check all the "Matched" rows = none. Check x and the value of x+5. If value of x + 5 == "", continue,
+if x == "none" and x + 5 != ""
+then set x[matched] = x + 5
+If x+5 payment is successful, then set x+5[matched] == "none"
+else x+5[matched] = ""
+
+End
