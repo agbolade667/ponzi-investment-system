@@ -3,10 +3,10 @@
 This is a basic ponzi investment scheme website developed with the LAMP stack. The PHP version is PHP 7. 
 Users register on the website, and when they complete their registration, they are matched to an upline. 
 
-<br><br>
+<br>
 
-INSTALLATION
+<b>INSTALLATION</b>
 
-<BR><BR>
+<br>
 
 This system can be implement using the XAMPP server.
